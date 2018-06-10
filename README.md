@@ -1,1 +1,1 @@
-# psychic-game
+This is the first psychic game homework. With time (and skill) permitting, I will try to work on the second one.
